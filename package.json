@@ -1,0 +1,11 @@
+{
+  "name": "tdd3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "factorial.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
